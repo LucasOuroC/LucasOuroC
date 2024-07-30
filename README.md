@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas e sou aspirante a programaçãos 👋💻
+### Sup guys, I'm Lucas, and im a aspiring programming 👋💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ouro_lusca/)
 
@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOuroC&hide_progress=true)
 
-### Tecnologias conhecidas
+### Known technologies
 <div style="display: inline_block"></br>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
