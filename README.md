@@ -2,9 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ouro_lusca/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasOuroC&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasOuroC&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOuroC&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOuroC&hide_progress=true)
+
 
 ### Known technologies
 <div style="display: inline_block"></br>
