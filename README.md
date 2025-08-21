@@ -1,4 +1,4 @@
-### Sup guys, I'm Lucas, and im a aspiring programming 👋💻
+### Sup guys, I'm Lucas, and im a backend aspiring programming 👋💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ouro_lusca/)
 
