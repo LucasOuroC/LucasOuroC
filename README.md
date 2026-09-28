@@ -59,10 +59,10 @@
 ---
 
 ### 🧠 Experiência com IA
-<p>Tenho explorado e integrado modelos de IA em projetos, utilizando as APIs da OpenAI e do Google Gemini. Também tenho experiência com o Codex no desenvolvimento de software e com diferentes versões dos modelos GPT para apoiar a criação, revisão e evolução de soluções.</p>
+<p>Tenho explorado e integrado modelos de IA em projetos, utilizando as APIs da OpenAI e do Google Gemini. Também tenho experiência com o Codex no desenvolvimento de software e com o ChatGPT e diferentes versões dos modelos GPT para apoiar a criação, revisão e evolução de soluções.</p>
 <div>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" title="OpenAI API"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" title="Gemini API"/>
   <img src="https://img.shields.io/badge/Codex-20232A?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" title="Codex"/>
-  <img src="https://img.shields.io/badge/GPT%20%7C%20diferentes%20vers%C3%B5es-20232A?style=for-the-badge&logo=openai&logoColor=white" alt="GPT e suas versões" title="GPT e suas versões"/>
+  <img src="https://img.shields.io/badge/ChatGPT%20%7C%20GPT-20232A?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT e versões GPT" title="ChatGPT e versões GPT"/>
 </div>
