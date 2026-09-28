@@ -13,8 +13,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasOuroC&show_icons=true&theme=radical" alt="Estatísticas do Lucas no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOuroC&layout=compact&hide_progress=true&theme=radical" alt="Linguagens Mais Usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasOuroC&theme=radical" alt="Estatísticas do Lucas no GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasOuroC&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
