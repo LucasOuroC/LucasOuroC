@@ -1,0 +1,32 @@
+name: Update profile statistics
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/scripts/generate_stats.py
+      - .github/workflows/update-stats.yml
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_stats.py
+      - name: Commit updated cards
+        run: |
+          git add .github/assets/stats.svg .github/assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update profile statistics'
+            git push
+          fi
